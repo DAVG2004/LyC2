@@ -1,0 +1,5 @@
+Lenguaje,Tiempo_ms,Memoria_MB,Tipo
+Zig,525.69,1.0,Real
+Rust,525.85,1.0,Real
+JavaScript,1375.21,1.0,Real
+Python,20145.0,1.0,Real
