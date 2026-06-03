@@ -5,11 +5,10 @@ Este repositorio contiene el desarrollo académico e investigativo para el estud
 ---
 
 ## 👥 Integrantes (Grupo de Trabajo)
-- **Integrante 1**: [José silva 30.810.283]
-- **Integrante 2**: [daniel vallenilla 31.159.105]
-- **Integrante 3**: [robert castros 30.994.039]
-- **Integrante 4**: [Endrys flores 30.451.556]
-- **Integrante 5**: [Alexmary Ramirez 31.809.930]
+- **Integrante 1**: [daniel vallenilla 31.159.105]
+- **Integrante 2**: [robert castros 30.994.039]
+- **Integrante 3**: [Endrys flores 30.451.556]
+- **Integrante 4**: [Alexmary Ramirez 31.809.930]
 
 ---
 
